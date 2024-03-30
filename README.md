@@ -1,8 +1,3 @@
-# amazonClone
-
-Sure, here's a sample summary you could include in your README for an Amazon clone built using HTML and CSS:
-
----
 
 # Amazon Clone
 
